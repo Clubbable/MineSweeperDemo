@@ -1,0 +1,23 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "EngineVersion": "4.27",
+  "VersionName": "0.1",
+  "FriendlyName": "Minesweeper",
+  "Description": "A sapper can only be wrong once",
+  "CreatedBy": "",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL" : "",
+  "Category": "Editor",
+  "CanContainContent": true,
+  "Installed": true,
+  "Modules": [
+    {
+      "Name": "Minesweeper",
+      "Type": "Editor",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [ "Win64" ]
+    }
+  ]
+}
